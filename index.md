@@ -10,11 +10,18 @@ Many products and services lie at the heart of Microsoft. With your corporate mi
 
 **Four focus area's for the digital transformation:**
 
-![image-20210525142740285](./image-20210525142740285.png)
+<!-- ![image-20210525142740285](./image-20210525142740285.png) -->
+<p align="center">
+  <img src="./image-20210525142740285.png">
+</p>
 
 ---
 
 ## Why is digital innovation important?
+
+<p align="center">
+  <img src="./image-20210525142404925.png">
+</p>
 
 ![image-20210525142404925](./image-20210525142404925.png)
 
