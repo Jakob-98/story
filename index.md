@@ -10,17 +10,17 @@ Many products and services lie at the heart of Microsoft. With your corporate mi
 
 **Four focus area's for the digital transformation:**
 
-![image-20210525142740285](./pictures/image-20210525142740285.png)
+![image-20210525142740285](./image-20210525142740285.png)
 
 ---
 
 ## Why is digital innovation important?
 
-![image-20210525142404925](./pictures/image-20210525142404925.png)
+![image-20210525142404925](./image-20210525142404925.png)
 
-![image-20210525145025640](./pictures/image-20210525145025640.png)
+![image-20210525145025640](./image-20210525145025640.png)
 
-![image-20210525145756303](./pictures/image-20210525145756303.png)
+![image-20210525145756303](./image-20210525145756303.png)
 
 > Tech Intensity Quantitative Research, Microsoft, 2019
 
@@ -32,11 +32,11 @@ A digital transformation allows clients to improve upon their current business p
 
 ### Case study: IoT for Achmea
 
-![image-20210525144216151](./pictures/image-20210525144216151.png)
+![image-20210525144216151](./image-20210525144216151.png)
 
-![image-20210525144209587](./pictures/image-20210525144209587.png)
+![image-20210525144209587](./image-20210525144209587.png)
 
-![image-20210525145253445](./pictures/image-20210525145253445.png)
+![image-20210525145253445](./image-20210525145253445.png)
 
 
 
@@ -46,9 +46,9 @@ A digital transformation allows clients to improve upon their current business p
 
 ### Case study:  AI for health care at apoQlar
 
-![image-20210525143004384](./pictures/image-20210525143004384.png)
+![image-20210525143004384](./image-20210525143004384.png)
 
-![image-20210525143015055](./pictures/image-20210525143015055.png)
+![image-20210525143015055](./image-20210525143015055.png)
 
 > Microsoft, A Year of Change: Digital Transformation Trends in 2020 10
 
@@ -56,9 +56,9 @@ A digital transformation allows clients to improve upon their current business p
 
 ### Case study: building upon innovative idea's together with Carnegie Mellon University
 
-![image-20210525145618636](./pictures/image-20210525145618636.png)
+![image-20210525145618636](./image-20210525145618636.png)
 
-![image-20210525145622860](./pictures/image-20210525145622860.png)
+![image-20210525145622860](./image-20210525145622860.png)
 
 > https://customers.microsoft.com/en-us/story/1373322602397569038-cmu-azurepmm-azurestack
 
@@ -66,6 +66,6 @@ A digital transformation allows clients to improve upon their current business p
 
 ## What the future will bring: from case studies to the edge of innovation
 
-![image-20210525144701307](./pictures/image-20210525144701307.png)
+![image-20210525144701307](./image-20210525144701307.png)
 
-![image-20210525144730266](./pictures/image-20210525144730266.png)
+![image-20210525144730266](./image-20210525144730266.png)
