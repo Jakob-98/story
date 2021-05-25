@@ -17,7 +17,7 @@ Many products and services lie at the heart of Microsoft. With your corporate mi
 
 ---
 
-## Why is digital innovation important?
+## Why is the digital transformation important?
 
 <p align="center">
   <img src="./image-20210525142404925.png">
