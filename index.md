@@ -1,37 +1,71 @@
-## Welcome to GitHub Pages
+# Hello world, hello Microsoft! 
 
-You can use the [editor on GitHub](https://github.com/Jakob-98/story/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<div style="text-align: right"> https://data.gy - Jakob Serlier 2021 </div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Transforming an individuals' life, businesses and organizations through Microsoft services 
 
-### Markdown
-test12
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Scoping down - from an organizational level to a service level
 
-```markdown
-Syntax highlighted code block
+Many products and services lie at the heart of Microsoft. With your corporate mission being "Empower every person and every organization on the planet to achieve more.", I wanted to find out what that means for individual businesses. 
 
-# Header 1
-## Header 2
-### Header 3
+**Four focus area's for the digital transformation:**
 
-- Bulleted
-- List
+![image-20210525142740285](../pictures/image-20210525142740285.png)
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
+## Why is digital innovation important?
 
-[Link](url) and ![Image](src)
-```
+![image-20210525142404925](../pictures/image-20210525142404925.png)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![image-20210525145025640](../pictures/image-20210525145025640.png)
 
-### Jekyll Themes
+![image-20210525145756303](../pictures/image-20210525145756303.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jakob-98/story/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+> Tech Intensity Quantitative Research, Microsoft, 2019
 
-### Support or Contact
+A digital transformation allows clients to improve upon their current business proposition, and in addition re-imagine what the future of their business can look like. 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+---
+
+## How does the transformation influence people from a customer perspective? Three case studies of existing clients
+
+### Case study: IoT for Achmea
+
+![image-20210525144216151](../pictures/image-20210525144216151.png)
+
+![image-20210525144209587](../pictures/image-20210525144209587.png)
+
+![image-20210525145253445](../pictures/image-20210525145253445.png)
+
+
+
+> https://customers.microsoft.com/en-us/story/814287-achmea
+
+---
+
+### Case study:  AI for health care at apoQlar
+
+![image-20210525143004384](../pictures/image-20210525143004384.png)
+
+![image-20210525143015055](../pictures/image-20210525143015055.png)
+
+> Microsoft, A Year of Change: Digital Transformation Trends in 2020 10
+
+---
+
+### Case study: building upon innovative idea's together with Carnegie Mellon University
+
+![image-20210525145618636](../pictures/image-20210525145618636.png)
+
+![image-20210525145622860](../pictures/image-20210525145622860.png)
+
+> https://customers.microsoft.com/en-us/story/1373322602397569038-cmu-azurepmm-azurestack
+
+---
+
+## What the future will bring: from case studies to the edge of innovation
+
+![image-20210525144701307](../pictures/image-20210525144701307.png)
+
+![image-20210525144730266](../pictures/image-20210525144730266.png)
