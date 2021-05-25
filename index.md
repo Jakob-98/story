@@ -100,8 +100,8 @@ A digital transformation allows clients to improve upon their current business p
 ![image-20210525145618636](./image-20210525145618636.png)
 
 ![image-20210525145622860](./image-20210525145622860.png) -->
-
 > https://customers.microsoft.com/en-us/story/1373322602397569038-cmu-azurepmm-azurestack
+
 ---
 
 ## What the future will bring: from case studies to the edge of innovation
