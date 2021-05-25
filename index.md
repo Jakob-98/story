@@ -83,7 +83,7 @@ A digital transformation allows clients to improve upon their current business p
 
 ![image-20210525143015055](./image-20210525143015055.png) -->
 
-> Microsoft, A Year of Change: Digital Transformation Trends in 2020 10
+> Microsoft, A Year of Change: Digital Transformation Trends in 2020
 
 ---
 
@@ -95,14 +95,14 @@ A digital transformation allows clients to improve upon their current business p
 <p align="center">
   <img src="./image-20210525145622860.png">
 </p>
+
 <!-- 
 ![image-20210525145618636](./image-20210525145618636.png)
 
 ![image-20210525145622860](./image-20210525145622860.png) -->
 
-TEST
 > https://customers.microsoft.com/en-us/story/1373322602397569038-cmu-azurepmm-azurestack
-
+---
 
 ## What the future will bring: from case studies to the edge of innovation
 
