@@ -2,7 +2,7 @@
 
 # Hello world, hello Microsoft! 
 
-## Transforming an individuals' life, businesses and organizations through Microsoft services 
+## Transforming an individual's life, businesses and organizations through Microsoft services 
 
 ### Scoping down - from an organizational level to a service level
 
