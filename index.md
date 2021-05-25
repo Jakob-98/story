@@ -1,6 +1,6 @@
-# Hello world, hello Microsoft! 
-
 <div style="text-align: right"> https://data.gy - Jakob Serlier 2021 </div>
+
+# Hello world, hello Microsoft! 
 
 ## Transforming an individuals' life, businesses and organizations through Microsoft services 
 
