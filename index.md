@@ -93,7 +93,7 @@ A digital transformation allows clients to improve upon their current business p
   <img src="./image-20210525145618636.png">
 </p>
 <p align="center">
-  <img src="./image-20210525145618636.png">
+  <img src="./image-20210525145622860.png">
 </p>
 <!-- 
 ![image-20210525145618636](./image-20210525145618636.png)
